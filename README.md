@@ -8,4 +8,4 @@ Each reading group presenter should:
 ### Fall 2024
 | Date | Discussion Lead | Paper Title and Link | Conference |
 | ------------ | ------------ | ------------ | ------------ |
-| Sep 24, 2024| Haitian | [nnScaler: Constraint-Guided Parallelization Plan Generation for Deep Learning Training](https://www.usenix.org/conference/osdi24/presentation/lin-zhiqi) | OSDI'24 |
+| 2024/09/24 | Haitian | [nnScaler: Constraint-Guided Parallelization Plan Generation for Deep Learning Training](https://www.usenix.org/conference/osdi24/presentation/lin-zhiqi) | OSDI'24 |
