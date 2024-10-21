@@ -11,3 +11,4 @@ Each reading group presenter should:
 | 2024/09/24 | Haitian | [nnScaler: Constraint-Guided Parallelization Plan Generation for Deep Learning Training](https://www.usenix.org/conference/osdi24/presentation/lin-zhiqi) | OSDI'24 |
 | 2024/10/01 | Hexu | [On Optimizing the Communication of Model Parallelism](https://proceedings.mlsys.org/paper_files/paper/2023/file/a42cbafcabb6dc7ce77bfe2e80f5c772-Paper-mlsys2023.pdf) | MLSys'23 |
 | 2024/10/15 | David | [Hidet: Task-Mapping Programming Paradigm for Deep Learning Tensor Programs](https://dl.acm.org/doi/10.1145/3575693.3575702) | ASPLOS'23 |
+| 2024/10/22 | Daniel | [dLoRA: Dynamically Orchestrating Requests and Adapters for LoRA LLM Serving](https://www.usenix.org/conference/osdi24/presentation/wu-bingyang) | OSDI'24 |
